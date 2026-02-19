@@ -1,0 +1,7 @@
+{
+  "name": "Monginis Factory Gate Pass  System",
+  "description": "A comprehensive gate management system for staff attendance, visitor tracking, and HR approvals with AI-powered security insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
